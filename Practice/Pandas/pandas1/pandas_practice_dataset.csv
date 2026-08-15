@@ -1,0 +1,16 @@
+ID,Name,Age,City,Date,Experience,Score,Salary
+1,Anudeep,37.0,Bangalore,2025-01-10,8,72.0,1200000.0
+2,Ravi,32.0,Chennai,15/01/2025,6,65.0,900000.0
+3,Priya,29.0,Hyderabad,"January 20, 2025",5,78.0,800000.0
+4,John,40.0,Bangalore,2025/01/25,10,88.0,1500000.0
+5,Meena,,Mumbai,02/02/2025,7,70.0,950000.0
+6,Arun,35.0,Delhi,2025-02-10,4,60.0,
+7,Kiran,31.0,Chennai,"February 15, 2025",8,,1100000.0
+8,Ravi,32.0,Chennai,15/01/2025,6,65.0,900000.0
+9,Divya,27.0,Bangalore,2025-03-05,3,55.0,700000.0
+10,Suresh,45.0,Mumbai,10/03/2025,12,92.0,1800000.0
+11,Neha,30.0,Hyderabad,"March 20, 2025",5,68.0,820000.0
+12,Vijay,38.0,Delhi,2025-03-25,9,85.0,1350000.0
+13,Asha,28.0,Bangalore,2025/04/02,4,62.0,760000.0
+14,Rahul,34.0,Chennai,05/04/2025,7,74.0,980000.0
+15,Pooja,26.0,Mumbai,"April 10, 2025",2,48.0,650000.0
